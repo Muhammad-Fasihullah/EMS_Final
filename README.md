@@ -81,12 +81,13 @@ Self-service portal for employees to manage their work life:
 
 ## 👨‍💻 Author
 
-**Malik**  
+**Muhammad Fasihullah**  
 *Full Stack Developer*
 
+🔗 [GitHub Portfolio](https://github.com/Muhammad-Fasihullah)  
 📧 [Email Me](mailto:your.email@example.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-📁 [GitHub Portfolio](https://github.com/your-username)
+
 
 ---
 
