@@ -1,0 +1,16 @@
+target/
+.settings/
+.project
+.classpath
+*.class
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+bin/
+build/
+.idea/
+*.iml
+.nb-conf
+nbproject/
